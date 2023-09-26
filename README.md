@@ -12,7 +12,7 @@ Hi, my **name** is Rahel and I'm an _immunologist_.
 > "It's the little things."
 
 ### A list
-* hiking
+* walking
 * swimming
   * in the lake
   * in the pool
