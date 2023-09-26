@@ -14,6 +14,6 @@ Hi, my **name** is Rahel and I'm an _immunologist_.
 ### A list
 * hiking
 * swimming
- * in the lake
- * in the pool
+  * in the lake
+  * in the pool
 * taking pictures
